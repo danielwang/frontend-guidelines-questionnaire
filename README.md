@@ -81,6 +81,16 @@ A one-page questionnaire to help your team establish effective frontend guidelin
 
 ---------------
 
+## Iconography
+
+
+---------------
+
+## Animation
+
+
+---------------
+
 ## Performance
 - **Do you use performance budgets?** If so, what [metrics](https://timkadlec.com/2014/11/performance-budget-metrics/) are you using to determine budgets? Where are you keeping track of performance budgets?
 - **How are you measuring your project's speed** *(such as [Pingdom Speed Test](http://tools.pingdom.com/) or [Google PageSpeed](https://developers.google.com/speed/pagespeed/))*?
